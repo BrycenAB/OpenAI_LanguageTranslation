@@ -1,5 +1,6 @@
 import difflib
 
+'''Ignore this for now'''
 # from langdetect import detect, LangDetectException
 # import unidecode
 
@@ -15,8 +16,8 @@ def find_closest_match(input_string):
     return closest_match
 
 
-'''Haven't gotten this to work yet, 
-i tried using libraries like langdetect  and enchant
+ '''Haven't gotten this to work yet, 
+ I tried using libraries like langdetect  and enchant
  but the libraries dont cover the languages that 
  it would really count for like Korean and Japanese'''
 
